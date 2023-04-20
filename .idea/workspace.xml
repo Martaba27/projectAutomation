@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cd2b69a-4add-4899-aa96-dd38c9c1c24c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Project_1/CarGurus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Project_1/Duotify.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Project_1/WebOrders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,6 +105,18 @@
       <option name="presentableId" value="Default" />
       <updated>1681166471359</updated>
     </task>
+    <task id="LOCAL-00001" summary="Projects 1_2_3">
+      <created>1682004839970</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682004839970</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Projects 1_2_3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Projects 1_2_3" />
   </component>
 </project>
